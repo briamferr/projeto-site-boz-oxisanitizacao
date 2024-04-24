@@ -12,7 +12,10 @@
 ![Video-Landing-Page-Oxi](https://github.com/briamferr/projeto-landing-page-oxisanitizacao/assets/124388657/9f0ebe28-c5ff-4a99-bb22-31b9605afe37)
 <h1>
 
-    
+<h2 align="center">
+  <a href="https://briamferr.github.io/projeto-site-boz-oxisanitizacao/" target="_blank">Veja o site</a>
+</h2> 
+
 ## Sobre a B-OZ
 A B-OZ - Oxi-sanitização oferece serviço de higienização e sanitização veícular.
 
