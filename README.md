@@ -8,12 +8,11 @@
 <h1 align="center">
     <img src="src/imagens/logo.png" alt="Logo B-OZ">
     <p>B-OZ - Oxi-sanitização</p>
-</h1>
-
-## Apresentação 
 
 ![Video-Landing-Page-Oxi](https://github.com/briamferr/projeto-landing-page-oxisanitizacao/assets/124388657/9f0ebe28-c5ff-4a99-bb22-31b9605afe37)
+<h1>
 
+    
 ## Sobre a B-OZ
 A B-OZ - Oxi-sanitização oferece serviço de higienização e sanitização veícular.
 
