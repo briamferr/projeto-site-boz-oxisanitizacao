@@ -46,7 +46,7 @@ body{
 .painel{
     grid-area: painel;
     height: 89vh;
-    background: url(../images/foto1.jpg) center center no-repeat;
+    background: url(../imagens/foto1.jpg) center center no-repeat;
     background-size: cover;
     display: flex;
     justify-content: center;
@@ -64,7 +64,7 @@ body{
 }
 
 .painel:after{
-    content: url(../images/seta_preta.png);
+    content: url(../imagens/seta_preta.png);
     height: 35px;
     bottom: 40px;
     position: absolute;
@@ -121,12 +121,12 @@ body{
 }
 
 .sobre .imagem.direita{
-    background: url(../images/homem-olhando-carro.jpg) center center no-repeat;
+    background: url(../imagens/homem-olhando-carro.jpg) center center no-repeat;
     background-size: cover;
 }
 
 .sobre .imagem.esquerda{
-    background: url(../images/gerador-ozonio.png) center center no-repeat;
+    background: url(../imagens/gerador-ozonio.png) center center no-repeat;
     background-size: cover;
 }
 
@@ -243,5 +243,5 @@ margin: 20px;
 }
 
 .rodape .rede-sociais i:hover{
-    color: #808080;
+    color: #50dd96;
 }
