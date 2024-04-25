@@ -5,16 +5,13 @@
 - Apresentar algumas imagens do produto ou serviço;
 - Deixar página responsiva.
 
-<h1 align="center">
-    <img src="src/imagens/logo.png" alt="Logo B-OZ">
-    <p>B-OZ - Oxi-sanitização</p>
+## Preview
 
-![Video-Landing-Page-Oxi](https://github.com/briamferr/projeto-landing-page-oxisanitizacao/assets/124388657/9f0ebe28-c5ff-4a99-bb22-31b9605afe37)
-<h1>
+![Video-Landing-Page-Oxi](https://github.com/briamferr/projeto-site-boz-oxisanitizacao/assets/124388657/ec0c49d6-3c36-45a7-9b80-f898695582f2)
 
-<h2 align="center">
-  <a href="https://briamferr.github.io/projeto-site-boz-oxisanitizacao/" target="_blank">Veja o site</a>
-</h2> 
+##
+<a href="https://briamferr.github.io/projeto-site-boz-oxisanitizacao/" target="_blank">Veja o site</a>
+
 
 ## Sobre a B-OZ
 A B-OZ - Oxi-sanitização oferece serviço de higienização e sanitização veícular.
